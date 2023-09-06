@@ -1,0 +1,8 @@
+[submodule "backend"]
+	path = backend
+	url = git remote add origin https://github.com/JaiSriRam1506/Ecommerce-MERN-Backend.git
+
+[submodule "frontend"]
+	path = frontend
+	url = git remote add origin https://github.com/JaiSriRam1506/Ecommerce-MERN-Frontend.git
+
